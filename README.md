@@ -1,5 +1,5 @@
 # Minesweeper
-Custom Minesweeper game I wrote for my CSX class.
+Custom Minesweeper game I wrote for my CSX class :thumbsup:.
 
 ## Usage
 Game has to be run with args[0] = size of board and args[1] = bombfile
