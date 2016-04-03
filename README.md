@@ -14,7 +14,7 @@ eg.
 4, 5
 5, 5
 5,    5
- 
+
  Spaces don't matter
 Board size cannot be less than 6 or greater than 30. 
 Game defaults to 6 by 6 gameboard if it doesnt meet these parameters
