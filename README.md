@@ -7,13 +7,13 @@ eg.  java Minesweeper 8 bombfile.txt
 
 bombfile contains locations of bombs. Each line is a comma separated cell location
 
-eg. 
-5, 2
-5, 3
-3, 2
-4, 5
-5, 5
-5,    5
+eg.<br>
+5, 2<br>
+5, 3<br>
+3, 2<br>
+4, 5<br>
+5, 5<br>
+5,    5<br>
 
  Spaces don't matter
 Board size cannot be less than 6 or greater than 30. 
