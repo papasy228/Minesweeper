@@ -8,12 +8,12 @@ eg.  java Minesweeper 8 bombfile.txt
 bombfile contains locations of bombs. Each line is a comma separated cell location
 
 eg. 
- 5, 2
- 5, 3
- 3, 2
- 4, 5
- 5, 5
- 5,    5
+5, 2
+5, 3
+3, 2
+4, 5
+5, 5
+5,    5
  
  Spaces don't matter
 Board size cannot be less than 6 or greater than 30. 
