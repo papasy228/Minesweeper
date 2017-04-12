@@ -22,6 +22,9 @@ Game defaults to 6 by 6 gameboard if it doesnt meet these parameters
 ## Rules
 User gets 3 hits on a bomb before game is over instead of the traditional 1.
 
+## Coming Soon
 Version 2 will have high scores and connect to a database
+
+[Dowload Live Demo](http://papasy.me/files/Minesweeper.jar)
 
 
